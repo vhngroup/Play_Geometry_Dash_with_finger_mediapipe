@@ -1,7 +1,7 @@
 ##Jugamos Geometry Dash con OpenCV y MediaPipe. Analitica de video ##
-En este proyecto creamo una interfaz que remplaza el techado y usa nuestra camara y dedos para remplazr la barra espaciadora del teclado.
+En este proyecto creamos una interfaz que remplaza el techado y usa nuestra camara y dedos para remplazr la barra espaciadora del teclado.
 
-![Example](https://github.com/vhngroup/Play_Geometry_Dash_with_finger_mediapipe/blob/static/image.png)
+![Example](https://github.com/vhngroup/Play_Geometry_Dash_with_finger_mediapipe/blob/main/static/image.png)
 
 ### Requisitos ###
 - Python 3.10
